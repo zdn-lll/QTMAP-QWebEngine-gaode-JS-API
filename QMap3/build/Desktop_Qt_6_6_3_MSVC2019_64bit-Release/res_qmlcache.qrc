@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="tmep/mymap.html">../../tmep/mymap.html</file>
+        <file alias="tmep/qwebchannel.js">../../tmep/qwebchannel.js</file>
+        <file alias="tmep/test.html">../../tmep/test.html</file>
+        <file alias="tmep/mymap_ba.html">../../tmep/mymap_ba.html</file>
+        <file alias="tmep/mymap_2.html">../../tmep/mymap_2.html</file>
+    </qresource>
+</RCC>
